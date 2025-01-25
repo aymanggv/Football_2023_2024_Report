@@ -1,11 +1,9 @@
 # Football 2023 - 2024 Dashboard
-Football 2023/2024 Dashboard. Interactive view can be found on [https://aymang.streamlit.app](https://aymang.streamlit.app/Football_2023-2024_Dashboard)
-<br/>
 <!DOCTYPE html>
 <html>
 <body>
     <h2>Overview</h2>
-    <p>This dashboard provides a detailed analysis of global football leagues during the 2023/2024 season. It focuses on player performance, team form, standings, and match results across multiple leagues. Built using Power BI, this dashboard offers comprehensive insights into football statistics, facilitating an engaging and interactive exploration of data.</p>
+    <p>This dashboard provides a detailed analysis of global football leagues during the 2023/2024 season. It focuses on player performance, team form, standings, and match results across multiple leagues. Built using Power BI, this dashboard offers comprehensive insights into football statistics, facilitating an engaging and interactive exploration of data. Interactive view can be found on [https://aymang.streamlit.app](https://aymang.streamlit.app/Football_2023-2024_Dashboard)</p>
     
   <h2>Key Features</h2>
     <ul>
