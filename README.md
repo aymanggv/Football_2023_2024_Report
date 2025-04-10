@@ -1,4 +1,4 @@
-# Football 2023 - 2024 Dashboard
+# Football 2023-2024 Dashboard
 <!DOCTYPE html>
 <html>
 <body>
